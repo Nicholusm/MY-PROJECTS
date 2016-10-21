@@ -16,6 +16,7 @@ namespace DapperORMBlog
     {
         //Connection string
         private IDbConnection db = new SqlConnection(ConfigurationManager.ConnectionStrings["conn"].ToString());
+        private IDbConnection db1 = new SqlConnection(ConfigurationManager.ConnectionStrings["conn1"].ToString()); 
 
 
         public List<Person> GeList()
@@ -107,9 +108,14 @@ namespace DapperORMBlog
             }
          
         }
-      
-       
+        ///Student 
+        public List<Person> GeStudents()
+        {
+            return this.db1.Query<Person>("SELECT * FROM Student").ToList();
+
         }
+
+    }
 
     }
 
