@@ -16,7 +16,7 @@ namespace DapperORMBlog
 
         public static void Main(string[] args)
         {
-            Program prg = new Program();
+     
          
 
             CRUD();
