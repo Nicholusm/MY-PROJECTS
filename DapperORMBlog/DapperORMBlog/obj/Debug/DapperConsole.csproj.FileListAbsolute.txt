@@ -28,3 +28,9 @@ C:\Users\NichoMaropeng\Desktop\DapperORMBlog\DapperORMBlog\DapperORMBlog\obj\Deb
 C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\bin\Debug\DapperORMBlog.exe.config
 C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\obj\Debug\DapperORMBlog.exe
 C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\obj\Debug\DapperORMBlog.pdb
+C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\bin\Debug\DapperORMBlog.exe
+C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\bin\Debug\DapperORMBlog.pdb
+C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\bin\Debug\Dapper.dll
+C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\bin\Debug\Dapper.pdb
+C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\bin\Debug\Dapper.xml
+C:\Sources\DapperORM\DapperORMBlog\DapperORMBlog\obj\Debug\DapperConsole.csprojResolveAssemblyReference.cache
