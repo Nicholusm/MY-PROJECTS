@@ -107,12 +107,7 @@ namespace DapperORMBlog
             }
          
         }
-        ///Student 
-        public List<Person> GeStudents()
-        {
-            return this.db1.Query<Person>("SELECT * FROM Student").ToList();
-
-        }
+    
 
     }
 
