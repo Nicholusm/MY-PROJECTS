@@ -17,8 +17,6 @@ namespace DapperORMBlog
         public static void Main(string[] args)
         {
      
-         
-
             CRUD();
             Back();
             Console.ReadLine();
